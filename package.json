@@ -1,0 +1,29 @@
+{
+  "name": "buuy91-gas-convert",
+  "version": "1.0.0",
+  "description": "buuy91-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/buuyhn/buuy91-gas-convert.git"
+  },
+  "keywords": [
+    "buuy91-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "buuyhn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xbuuy91/buuy91-gas-convert/issues"
+  },
+  "homepage": "https://github.com/0xbuuy91/buuy91-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
